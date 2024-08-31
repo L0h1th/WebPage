@@ -59,7 +59,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #777777;
+  color: #a74242;
   text-align: left;
   background-color: #fff;
 }
@@ -9265,7 +9265,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #336d90 !important;
+  color: #75B8F0 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
