@@ -1,5 +1,5 @@
 function sendToWhatsappc(){
-    let numberra = "+919110280326";
+    let numberra = "+919742006710";
     // let numbersa = "+917019051108";
     let name = document.getElementById('namec').value; 
     let email = document.getElementById('emailc').value;
